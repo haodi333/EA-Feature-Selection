@@ -1,1 +1,2 @@
-# Experience-Accumulation-A-Statistical-Based-Reinforcement-Learning-Feature-Selection-Method
+# Introduction
+This repository provides the code of paper "A Statistical-based Reinforcement Learning Feature Selection Method".
